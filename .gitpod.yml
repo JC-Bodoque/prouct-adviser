@@ -1,0 +1,3 @@
+tasks:
+  - init: 'echo "npm install"'
+    command: 'echo "nom start"'
