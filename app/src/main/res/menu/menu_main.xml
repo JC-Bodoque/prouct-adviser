@@ -1,12 +1,11 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
+<menu 
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.codingmounrtain.addtocartbadgecount.MainActivity">
-    <item
-        android:id="@+id/cart_action"
-        android:orderInCategory="100"
-        android:title="cart"
-        app:showAsAction="always" />
-
-
+    tools:context="com.itcm.tecnm.shoppingcartt.MainActivity">
+        <item
+            android:id="@+id/cart_action"
+            android:orderInCategory="100"
+            android:title="cart"
+            app:showAsAction="always" />
 </menu>
