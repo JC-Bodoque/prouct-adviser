@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">ShoppingCart</string>
+    <string name="app_name">Android Store</string>
+    <string name="description">Description</string>
+    <string name="name">Product name</string>
+    <string name="view_shopping_cart">View Shopping Cart</string>
+    <string name="product_price">0.0</string>
+    <string name="add_to_shopping_cart">Add to Shopping Cart</string>
+    <string name="product_quantity">0</string>
+    <string name="go_to_catalog">Go to catalog</string>
+    <string name="welcome">Welcome to Android Store</string>
+    <string name="total_to_pay">0.0</string>
 </resources>

@@ -1,2 +1,0 @@
-language = "java14"
-run = "echo hello world"
